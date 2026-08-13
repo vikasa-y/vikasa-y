@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Vikasa y
 
-### Electronics & Communication Engineering Student | Embedded Systems | Python | AI
+### 🎓 3rd Year Electronics & Communication Engineering Student 
 
 I'm an ECE student interested in building projects that combine **electronics, software, and artificial intelligence**.
 
-I'm currently exploring **Embedded Systems, Python, Computer Vision, Machine Learning**.
+I'm currently exploring **Embedded Systems, Python, Computer Vision **.
 
 ---
 
@@ -20,37 +20,17 @@ I'm currently exploring **Embedded Systems, Python, Computer Vision, Machine Lea
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-<br>
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-
-
-
-### 🤖 AI & Computer Vision
-
-- Computer Vision
-- OpenCV
-- Object Detection
-
-
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-- Git & GitHub
-- VS Code
-- jupyter notebook
+| Category | Technologies |
+|---|---|
+| 💻 Programming | Python, C |
+| 👁️ Computer Vision | Computer Vision, OpenCV |
+| 🧰 Tools | Git, GitHub, VS Code, Jupyter |
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 ### 👁️ Computer Vision
 > Projects involving image processing, object detection and visual analysis.
@@ -78,7 +58,7 @@ I'm currently exploring **Embedded Systems, Python, Computer Vision, Machine Lea
                   ↓
                Edge AI
 ```
-
+---
 ## 🌱 Currently Learning
 
 ```text
@@ -92,6 +72,7 @@ Edge AI
       ↓
 Embedded AI
 ```
+---
 ## 🎯 My Goal
 
 To develop strong skills at the intersection of:
@@ -101,26 +82,24 @@ To develop strong skills at the intersection of:
 and build practical engineering solutions that solve real-world problems.
 
 ---
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vikasa-y&hide_border=true)
-
+## 📚 My Coding Journey
+💡 I believe in small progress every day.
+```text
+ Practice → Build → Push → Improve → Repeat
+```
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR-USERNAME">
+  <a href="https://github.com/vikasa-y">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/vikasa-yattinahalli-229a9933b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-⭐ *Building • Learning • Improving*
+🙂 *Keep Building • Keep Learning • Keep Improving*
