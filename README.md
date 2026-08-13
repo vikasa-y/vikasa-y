@@ -25,6 +25,7 @@ I'm currently exploring **Embedded Systems, Computer Vision , Edge AI **.
 | Category | Technologies |
 |---|---|
 | 💻 Programming | Python, C |
+| 🗄️ Database | SQLite, SQLAlchemy |
 | 👁️ Computer Vision | Computer Vision, OpenCV |
 | 🧰 Tools | Git, GitHub, VS Code, Jupyter |
 
