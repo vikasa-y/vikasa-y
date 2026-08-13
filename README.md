@@ -4,7 +4,7 @@
 
 I'm an ECE student interested in building projects that combine **electronics, software, and artificial intelligence**.
 
-I'm currently exploring **Embedded Systems, Python, Computer Vision **.
+I'm currently exploring **Embedded Systems, Computer Vision , Edge AI **.
 
 ---
 
