@@ -1,16 +1,94 @@
-## Hi there 👋
+# 👋 Hi, I'm Vikasa y
 
-<!--
-**vikasa-y/vikasa-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineering Student | Embedded Systems | Python | AI
 
-Here are some ideas to get you started:
+I'm an ECE student interested in building projects that combine **electronics, software, and artificial intelligence**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently exploring **Embedded Systems, Python, Computer Vision, Machine Learning**.
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Electronics & Communication Engineering (ECE) Student
+- 💻 Interested in Python and Embedded Programming
+- 🔌 Exploring Arduino, ESP32 and Microcontrollers
+- 👁️ Learning Computer Vision and OpenCV
+- 🤖 Exploring Machine Learning and Edge AI
+- 🌱 Continuously improving my programming and engineering skills
+- 🚀 Interested in building practical ECE + AI projects
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<br>
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+
+
+### 🤖 AI & Computer Vision
+
+- Computer Vision
+- OpenCV
+- Object Detection
+
+
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+- Git & GitHub
+- VS Code
+- jupyter notebook
+
+---
+
+## 🚀 Featured Projects
+
+### 👁️ Computer Vision
+> Projects involving image processing, object detection and visual analysis.
+
+### 🐍 Python
+> Python projects focused on programming, automation and problem solving.
+
+---
+
+## 📊 My Development Journey
+
+```text
+
+                 ECE
+                  │
+        ┌─────────┴─────────┐
+        ↓                   ↓
+ Embedded Systems        Python
+        │                   │
+ Arduino / ESP32        AI / ML
+        │                   │
+        └─────────┬─────────┘
+                  ↓
+            Computer Vision
+                  ↓
+               Edge AI
+```
+
+## 🌱 Currently Learning
+
+```text
+Computer Vision
+      ↓
+OpenCV
+      ↓
+Machine Learning
+      ↓
+Edge AI
+      ↓
+Embedded AI
+```
