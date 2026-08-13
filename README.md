@@ -92,3 +92,35 @@ Edge AI
       ↓
 Embedded AI
 ```
+## 🎯 My Goal
+
+To develop strong skills at the intersection of:
+
+**Electronics + Embedded Systems + Software + Artificial Intelligence**
+
+and build practical engineering solutions that solve real-world problems.
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vikasa-y&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+⭐ *Building • Learning • Improving*
