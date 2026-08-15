@@ -96,7 +96,7 @@ and build practical engineering solutions that solve real-world problems.
   <a href="https://github.com/vikasa-y">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/vikasa-yattinahalli-229a9933b/">
+  <a href="https://www.linkedin.com/in/vikasa-yattinahalli/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
