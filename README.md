@@ -14,7 +14,7 @@ I'm currently exploring **Embedded Systems, Computer Vision , Edge AI **.
 - 💻 Interested in Python and Embedded Programming
 - 🔌 Exploring Arduino, ESP32 and Microcontrollers
 - 👁️ Learning Computer Vision and OpenCV
-- 🤖 Exploring Machine Learning and Edge AI
+- 🤖 Exploring Machine Learning and Data-science 
 - 🌱 Continuously improving my programming and engineering skills
 - 🚀 Interested in building practical ECE + AI projects
 
