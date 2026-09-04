@@ -29,42 +29,12 @@ I'm currently exploring **Embedded Systems, Computer Vision , Edge AI **.
 | 🧰 Tools | Git, GitHub, VS Code, Jupyter |
 
 ---
-
-## 📌 Featured Projects
-
-### 👁️ Computer Vision
-> Projects involving image processing, object detection and visual analysis.
-
-### 🐍 Python
-> Python projects focused on programming, automation and problem solving.
-
----
-
-## 📊 My Development Journey
-
-```text
-
-                 ECE
-                  │
-        ┌─────────┴─────────┐
-        ↓                   ↓
- Embedded Systems        Python
-        │                   │
- Arduino / ESP32        AI / ML
-        │                   │
-        └─────────┬─────────┘
-                  ↓
-            Computer Vision
-                  ↓
-               Edge AI
-```
----
 ## 🌱 Currently Learning
 
 ```text
-Computer Vision
+Data Analysis
       ↓
-OpenCV
+Data Science
       ↓
 Machine Learning
       ↓
