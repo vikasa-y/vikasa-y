@@ -20,13 +20,10 @@ I'm currently exploring **Embedded Systems, Computer Vision , Edge AI **.
 
 ---
 
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|---|---|
-| 💻 Programming | Python, C |
-| 🗄️ Database | SQLite |
-| 🧰 Tools | Git, GitHub, VS Code, Jupyter |
+## 🔧 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,sqlite,git,github&perline=9" />
+</p>
 
 ---
 ## 🌱 Currently Learning
