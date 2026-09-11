@@ -37,10 +37,7 @@ Data Analysis
 Data Science
       ↓
 Machine Learning
-      ↓
-Edge AI
-      ↓
-Embedded AI
+
 ```
 ---
 ## 🎯 My Goal
