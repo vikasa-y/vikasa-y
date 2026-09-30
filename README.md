@@ -21,19 +21,30 @@ I'm currently exploring **Embedded Systems, Computer Vision , Edge AI **.
 ---
 
 ## 🔧 Tech Stack
+### 1.Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,sqlite,git,github&perline=9" />
+  
+### 2.Data Science & Machine Learning</h3>
+
+<p>
+  <span style="display:inline-block; background-color:#00000; padding:5px; border-radius:8px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="50" height="50" alt="Seaborn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn"/>
+  </span>
+
 </p>
 
 ---
 ## 🌱 Currently Learning
 
 ```text
-Data Analysis
+Data Science 
       ↓
-Data Science
-      ↓
-Machine Learning
+Machine Learning (scikit-learning)
 
 ```
 ---
