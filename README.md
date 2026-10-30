@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikasa-y&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 # 👋 Hi, I'm Vikasa y
 
 ### 🎓 3rd Year Electronics & Communication Engineering Student 
@@ -20,6 +24,14 @@ I'm currently exploring **Embedded Systems, Computer Vision , Edge AI **.
 
 ---
 
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vikasa-y&theme=github-dark-blue&background=0d1117&border=30363d" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## 🔧 Tech Stack
 ### 1.Tools
 <p align="left">
@@ -37,8 +49,8 @@ I'm currently exploring **Embedded Systems, Computer Vision , Edge AI **.
   </span>
 
 </p>
-
 ---
+
 ## 🌱 Currently Learning
 
 ```text
