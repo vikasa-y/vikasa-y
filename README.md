@@ -49,6 +49,7 @@ I'm currently exploring **Embedded Systems, Computer Vision , Edge AI **.
   </span>
 
 </p>
+
 ---
 
 ## 🌱 Currently Learning
